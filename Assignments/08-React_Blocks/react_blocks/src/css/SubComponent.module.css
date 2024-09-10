@@ -1,0 +1,39 @@
+.subBox {
+    width: 245px;
+    height: 400px;
+    background-color:#FCD973;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    align-content: center;
+}
+
+.subText    {
+    font-size: 18px;
+    font-weight:600;
+    color: #425363;
+    text-align: center;
+    line-height: 16px;
+}
+
+.label  {
+    font-size: 12px;
+    font-weight: 200;
+    color: black;
+    text-align: center;
+    line-height: 16px;
+}
+
+.name   {
+    font-size: 22px;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+}
+
+.details    {
+    font-size: 18px;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+}

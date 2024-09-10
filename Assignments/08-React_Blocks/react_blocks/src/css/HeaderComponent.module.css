@@ -1,0 +1,16 @@
+.headerBox {
+    width: 1150px;
+    height: 75px;
+    /* margin: 0 auto; */
+    margin-left: 25px;
+    background-color:#6BA856;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+.headerText {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}

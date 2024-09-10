@@ -1,0 +1,28 @@
+.infoBox {
+    width: 400px;
+    height: 300px;
+    background-color:cornflowerblue;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    align-content: center;
+    margin-bottom: 15px;
+
+}
+.name   {
+    font-size: 48px;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+}
+
+.details    {
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+}
+
+.button {
+    background-color:rgb(19, 95, 236);
+}

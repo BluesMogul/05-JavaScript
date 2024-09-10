@@ -1,0 +1,98 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 10px;
+  color: #425363;
+  /* text-align: center; */
+}
+.userFormBox{
+  width: 600px;
+  height: auto;
+  margin: 0 auto;
+  background-color:#42536315;
+  border-style: solid;
+  border-width: 4px;
+  border-color: #425363;
+  padding-bottom: 25px;
+}
+
+.userListBox  {
+  width: 580px;
+  height: auto;
+  margin: 0 auto;
+  background-color: #425363;
+  padding: 15px 20px 25px 25px;
+}
+
+.userListTitle  {
+  font-size: 24px;
+  font-weight: 800;
+  color:darkorange;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.userListText {
+  font-size: 20px;
+  font-weight: 400;
+  color: white;
+  margin-bottom: 5px;
+}
+
+.inputFields  {
+  margin-left: 25px;
+  margin-bottom: 15px;
+  /* font-size: 18px;
+  font-weight: 400px;
+  color:#425363; */
+}
+
+.h1  {
+  font-size: 24px;
+  font-weight: 800;
+  color:darkorange;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.formTitle  {
+  font-size: 36px;
+  font-weight: 800;
+  color:#425363;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.formSubHead  {
+  font-size: 20px;
+  font-weight: 400;
+  color: #425363;
+  text-align:center;
+  margin-bottom: 25px;
+}
+
+label  {
+  font-size: 18px;
+  font-weight: 400;
+  color: #425363;
+  word-spacing: 2px;
+}
+
+.inputText  {
+  font-size: 18px;
+  font-weight: 300;
+  color:cornflowerblue;
+}
+
+.buttonBox  {
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.error  {
+  border: 3px solid red;
+  outline-color: red;
+}
+

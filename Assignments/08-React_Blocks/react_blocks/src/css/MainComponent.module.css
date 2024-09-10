@@ -1,0 +1,14 @@
+.mainBox    {
+    height: 545px;
+    width: 825px;
+    background-color:#DF6768;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+.mainText   {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}

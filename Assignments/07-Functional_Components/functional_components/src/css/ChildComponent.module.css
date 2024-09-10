@@ -1,0 +1,13 @@
+.childBox   {
+    width: 250px;
+    height: 100px;
+    background-color: green;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+.titleStyle {
+    font-size: 20px;
+    color: white;
+}

@@ -1,0 +1,16 @@
+.adBox  {
+    width: 780px;
+    height: 75px;
+    margin: 0 auto;
+    background-color: #B4A7D4;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    margin-top: 20px;
+}
+
+.adText {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}

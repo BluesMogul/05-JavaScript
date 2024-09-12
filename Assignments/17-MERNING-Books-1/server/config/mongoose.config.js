@@ -3,6 +3,8 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
+
+//Comment
 const MONGODB_URI = process.env.MONGODB_URI;
 console.log(MONGODB_URI)
 async function dbConnect() {

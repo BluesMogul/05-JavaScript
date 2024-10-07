@@ -1,8 +1,4 @@
 
-
-
-
-
 const tvShows = [
     {
       tvShow: "Breaking Bad",

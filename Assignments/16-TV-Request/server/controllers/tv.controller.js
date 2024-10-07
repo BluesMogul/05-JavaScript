@@ -1,5 +1,5 @@
 const TVController = {
-    getAllShows: (req, red) => {
+    getAllShows: (req, res) => {
         res.send("GET Request");
     }
 }

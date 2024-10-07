@@ -1,3 +1,8 @@
 {
-  "cSpell.words": ["fakerjs"]
+  "cSpell.words": ["fakerjs", "maxlength"],
+  "editor.renderWhitespace": "boundary",
+  "editor.cursorStyle": "block",
+  "editor.fontFamily": "\"'DM Mono', monospace\"",
+  "editor.fontSize": 14,
+  "terminal.integrated.fontFamily": "\"'Ubuntu Mono', monospace\""
 }
